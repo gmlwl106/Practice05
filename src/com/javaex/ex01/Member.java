@@ -9,7 +9,6 @@ public class Member {
 	
 	//생성자
 	
-	
 	//메소드 gs
 	public void setName(String name) {
 		this.name = name;

@@ -19,6 +19,7 @@ public class MemberApp {
 		lee.setId("lhr");
 		lee.setPoint(40000);
 		
+		
 		jung.showInfo();
 		yoo.showInfo();
 		lee.showInfo();
